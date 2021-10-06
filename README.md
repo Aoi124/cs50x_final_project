@@ -20,6 +20,10 @@ https://www.pygame.org/wiki/GettingStarted
 
 `pip install pygame`
 
+## How to play
+1. Clone or download this project.
+2. Run the `block.py` file to play the game.
+
 ## Requirement
 - Python 3.9.7 and above
 - Pygame module
