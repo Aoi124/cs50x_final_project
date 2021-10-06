@@ -29,7 +29,7 @@ https://www.pygame.org/wiki/GettingStarted
 - Pygame module
 
 ## Note / Dear CS50 Learner
-I install pygame in CS50 IDE, but it doesn’t work. I did in ~/project/. However, there is a error says “No available video device”. I use the reddit to solve problem but I can solve so I use IDLE to make this game.
+I install pygame in CS50 IDE, but it doesn’t work. I did in ~/project/. However, there is an error says “No available video device”. I use the reddit to solve problem but I can solve so I use IDLE to make this game.
 
 If you know how to move pygame in CS50 IDE, please tell me in the comment.
 
