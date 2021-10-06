@@ -18,6 +18,8 @@ This library can be use by any people if you install.If you want to use, pygame 
 
 https://www.pygame.org/wiki/GettingStarted
 
+`pip install pygame`
+
 ## Requirement
 - Python 3.9.7 and above
 - Pygame module
