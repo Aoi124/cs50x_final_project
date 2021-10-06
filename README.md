@@ -1,6 +1,6 @@
 # Breakout clone
 ## Description of Project
-This is my final project for Harvard CS50x course. It is a retro game made with Python.
+This is my final project for Harvard CS50x course. This project is to develop our own software by using the programming knowledge we have learned in class. I learned Python for the first time in the class, and I would like to learn more about it in the future, so I made a game using Python this time.
 
 ### Video Demo:
 
