@@ -2,6 +2,8 @@
 ## Description of Project
 This is my final project for Harvard CS50x course. It is a retro game made with Python.
 
+### Video Demo:
+
 ## About This Game
 The breakout game is the game which we reflect a moving ball by bar. If we break all block by ball, it is game clear.However, when you drop a ball, it is game over. In my game, if you be game over or game clear it will make a reset button and you can do 1 more time.
 
