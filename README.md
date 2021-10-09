@@ -2,7 +2,7 @@
 ## Description of Project
 This is my final project for Harvard CS50x course. This project is to develop our own software by using the programming knowledge we have learned in class. I learned Python for the first time in the class, and I would like to learn more about it in the future, so I made a game using Python this time.
 
-### Video Demo:
+### Video Demo: https://youtu.be/GTHPe0lHj0o
 
 ## About This Game
 The breakout game is the game which we reflect a moving ball by bar. If we break all block by ball, it is game clear.However, when you drop a ball, it is game over. In my game, if you be game over or game clear it will make a reset button and you can do 1 more time.
