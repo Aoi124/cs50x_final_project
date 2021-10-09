@@ -25,7 +25,7 @@ https://www.pygame.org/wiki/GettingStarted
 
 `pip install pygame`
 
-## How to play
+## How to play pygame
 1. Clone or download this project.
 2. Run the `block.py` file to play the game.
 3. You can use the mouse or your finger to control the bar, so try to bounce the ball well and remove all the blocks.
