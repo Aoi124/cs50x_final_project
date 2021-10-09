@@ -4,7 +4,7 @@ This is my final project for Harvard CS50x course. This project is to develop ou
 
 ### Video Demo: https://youtu.be/GTHPe0lHj0o
 
-## About This Game
+### About This Game
 The breakout game is the game which we reflect a moving ball by bar. The speed of the ball will change depending on the angle at which it is hit. If we break all block by ball, it is game clear. However, when you drop a ball, it is game over. In my game, if you be game over or game clear it will make a reset button and you can do 1 more time. The difficult part of this game is to guess the movement of the ball and try not to drop it. Reflections on the blocks make it difficult to guess the ball's movement. It will be a very exhilarating feeling when you break all the blocks.
 These data are written in `block.py`.
 
@@ -25,9 +25,9 @@ https://www.pygame.org/wiki/GettingStarted
 
 `pip install pygame`
 
-Pygame requires Python. If you don't already have Python, you can download it from python.org. Use python 3.7.7 or greater, because it is much friendlier to newbies, and additionally runs faster.
+> Pygame requires Python. If you don't already have Python, you can download it from python.org. Use python 3.7.7 or greater, because it is much friendlier to newbies, and additionally runs faster. The best way to install pygame is with the pip tool (which is what python uses to install packages). Note, this comes with python in recent versions. We use the --user flag to tell it to install into the home directory, rather than globally.
 
-## How to play pygame
+## How to play this game
 1. Clone or download this project.
 2. Run the `block.py` file to play the game.
 3. You can use the mouse or your finger to control the bar, so try to bounce the ball well and remove all the blocks.
