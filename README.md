@@ -41,6 +41,12 @@ Changing this number will change the size of the ball.
 - Python 3.9.7 and above
 - Pygame module
 
+## Folders
+- images: where is stored images(ball.png, replay.png)
+- sounds: where is stored sounds(attack.wav, back.wav, back.wav, crush.wav, down.wav, up.wav) 
+- block.py: Python file
+- READEME.md: a markdown file introducing my Python game
+
 ## Note / Dear CS50 Learner
 I install pygame in CS50 IDE, but it doesn’t work. I did in ~/project/. However, there is an error says “No available video device”. I use the reddit to solve problem but I can solve so I use IDLE to make this game.
 
