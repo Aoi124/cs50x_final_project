@@ -5,7 +5,7 @@ This is my final project for Harvard CS50x course. This project is to develop ou
 ### Video Demo: https://youtu.be/GTHPe0lHj0o
 
 ## About This Game
-The breakout game is the game which we reflect a moving ball by bar. If we break all block by ball, it is game clear.However, when you drop a ball, it is game over. In my game, if you be game over or game clear it will make a reset button and you can do 1 more time.
+The breakout game is the game which we reflect a moving ball by bar. The speed of the ball will change depending on the angle at which it is hit. If we break all block by ball, it is game clear. However, when you drop a ball, it is game over. In my game, if you be game over or game clear it will make a reset button and you can do 1 more time.
 These data are written in `block.py`.
 
 ## Recipe
