@@ -19,11 +19,13 @@ For example:
 You can also use pygame to make Invader games or Mario-like games. I'm planning to try it later.
 
 ## How to install pygame
-This library can be use by any people if you install. If you want to use, pygame please access the following URL.
+This library can be use by any people if you install. If you want to use pygame, please access the following URL.
 
 https://www.pygame.org/wiki/GettingStarted
 
 `pip install pygame`
+
+Pygame requires Python. If you don't already have Python, you can download it from python.org. Use python 3.7.7 or greater, because it is much friendlier to newbies, and additionally runs faster.
 
 ## How to play pygame
 1. Clone or download this project.
