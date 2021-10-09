@@ -8,7 +8,7 @@ This is my final project for Harvard CS50x course. This project is to develop ou
 The breakout game is the game which we reflect a moving ball by bar. The speed of the ball will change depending on the angle at which it is hit. If we break all block by ball, it is game clear. However, when you drop a ball, it is game over. In my game, if you be game over or game clear it will make a reset button and you can do 1 more time.
 These data are written in `block.py`.
 
-## Recipe
+## Pygame
 This game is made by pygame. Pygame is one of library of python with many useful tool.
 For example:
 1. We can display window for game.
@@ -18,7 +18,7 @@ For example:
 
 You can also use pygame to make Invader games or Mario-like games. I'm planning to try it later.
 
-## How to install
+## How to install pygame
 This library can be use by any people if you install. If you want to use, pygame please access the following URL.
 
 https://www.pygame.org/wiki/GettingStarted
