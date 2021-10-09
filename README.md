@@ -1,6 +1,6 @@
 # Breakout clone
 ## Description of Project
-This is my final project for Harvard CS50x course. This project is to develop our own software by using the programming knowledge we have learned in class. I learned Python for the first time in the class, and I would like to learn more about it in the future, so I made a game using Python this time.
+This is my final project for Harvard CS50x course. This project is to develop our own software by using the programming knowledge we have learned in class. I learned Python for the first time in the class, and I would like to learn more about it in the future, so I made a game using Python this time. I didn't have enough knowledge to make this game, so I read several reference books before making the game.
 
 ### Video Demo: https://youtu.be/GTHPe0lHj0o
 
@@ -16,6 +16,8 @@ For example:
 3. We can investigate what keyboard or mouse type.
 4. We can make a sound.
 
+You can also use pygame to make Invader games or Mario-like games. I'm planning to try it later.
+
 ## How to install
 This library can be use by any people if you install. If you want to use, pygame please access the following URL.
 
@@ -26,6 +28,11 @@ https://www.pygame.org/wiki/GettingStarted
 ## How to play
 1. Clone or download this project.
 2. Run the `block.py` file to play the game.
+3. You can use the mouse or your finger to control the bar, so try to bounce the ball well and remove all the blocks.
+4. If you can't clear the game no matter how many times you try, you may want to open the file and try resizing the ball.
+
+`ballimg = pgtransform.scale(ballimg,(40,40))`
+Changing this number will change the size of the ball.
 
 ## Requirement
 - Python 3.9.7 and above
