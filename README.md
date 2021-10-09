@@ -34,6 +34,7 @@ https://www.pygame.org/wiki/GettingStarted
 4. If you can't clear the game no matter how many times you try, you may want to open the file and try resizing the ball.
 
 `ballimg = pgtransform.scale(ballimg,(40,40))`
+
 Changing this number will change the size of the ball.
 
 ## Requirement
